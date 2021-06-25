@@ -1,1 +1,1 @@
-# XploreSpaceXplorer
+# SpaceXplorer build, just download it and open the .exe file ^^
